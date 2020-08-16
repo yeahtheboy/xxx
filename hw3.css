@@ -1,0 +1,116 @@
+
+h3:not(#ketnoi) {
+    margin-left: 40px;
+}
+
+h3 {
+    width: 100%;
+    color: #00008B;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+#content {
+    background-color: #F8F8FF;
+    
+}
+
+#content .advertise {
+    padding: 20px 80px;
+    display: block;
+}
+
+#content .advertise .upper {
+    display: flex;
+}
+
+#content .advertise .upper .middle {
+    margin: auto;
+    width: 1100px;
+}
+
+#content .advertise .upper .middle ul {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#content .advertise .upper .right {
+    margin-right: 120px;
+
+}
+
+#content .advertise .upper .right ul {
+    padding-left: 20px;
+
+}
+
+#content .advertise .upper .left, .middle, .right {
+    width: 100%;
+}
+
+#content .advertise .upper .middle, .right {
+    margin-top: 45px;
+}
+
+#content .advertise .lower {
+    display: flex;
+}
+
+#content .advertise .lower .one, .two {
+    width: 500px;
+}
+
+#content .advertise .lower .three, .four {
+    width: 500px;
+}
+
+#content .advertise .lower .three {
+    margin-right: 120px;
+    width: 700px;
+}
+
+#content .advertise .lower .four {
+    width: 40%;
+    margin-right: 0;
+}
+
+#content .advertise .lower .five img {
+    margin-top: 100px;
+    margin-left: 20px;
+}
+
+#content .advertise .bottom li {
+    margin: auto;
+    display: inline;
+    margin-left: 5px;
+}
+
+#content .advertise .bottom {
+    margin-left: 200px;
+}
+
+#content .advertise .footer {
+    text-align: center;
+}
+
+#content .advertise .lower .four .logo img {
+    width: 20px;
+    height: 20px;
+}
+
+
+#content .advertise .lower .four .bocongthuong img {
+    width: 40%;
+}
+
+#content .advertise .lower .five img {
+    width: 30%;
+}
